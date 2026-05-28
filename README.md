@@ -95,9 +95,8 @@ python fmcg_analysis.py
 
 ## About
 
-Built by **Nihita Raj** — Economics & Mathematics graduate (Miranda House, DU), incoming MSc Financial Economics (Gokhale Institute). Interested in AI applied to consumer brands, D2C analytics, and data-driven business strategy.
+Built by **Nihita Raj** — Economics & Mathematics graduate (Miranda House, DU). Interested in AI applied to consumer brands, D2C analytics, and data-driven business strategy.
 
-Currently interning at **Times Internet** in finance and business analytics.
 
 ---
 
